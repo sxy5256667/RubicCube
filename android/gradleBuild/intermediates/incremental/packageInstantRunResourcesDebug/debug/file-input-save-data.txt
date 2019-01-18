@@ -1,0 +1,31 @@
+#Internal package file, do not edit.
+#Sat Mar 10 17:33:02 EST 2018
+2.base=E\:\\Work\\android\\gradleBuild\\intermediates\\assets\\debug
+5.set=ASSET
+0.path=imagenet_comp_graph_label_strings.txt
+2.baseType=DIRECTORY
+3.base=E\:\\Work\\android\\gradleBuild\\intermediates\\assets\\debug
+2.set=ASSET
+1.path=BUILD
+4.base=E\:\\Work\\android\\gradleBuild\\intermediates\\assets\\debug
+count=7
+5.baseType=DIRECTORY
+2.path=label_list.txt
+5.base=E\:\\Work\\android\\gradleBuild\\intermediates\\assets\\debug
+4.set=ASSET
+3.path=tensorflow_inception_graph.pb
+6.base=E\:\\Work\\android\\gradleBuild\\intermediates\\assets\\debug
+3.baseType=DIRECTORY
+1.set=ASSET
+4.path=frozen_inference_graph.pb
+6.set=ASSET
+1.baseType=DIRECTORY
+6.baseType=DIRECTORY
+5.path=ssd_mobilenet_v1_android_export.pb
+0.base=E\:\\Work\\android\\gradleBuild\\intermediates\\assets\\debug
+0.baseType=DIRECTORY
+3.set=ASSET
+6.path=coco_labels_list.txt
+1.base=E\:\\Work\\android\\gradleBuild\\intermediates\\assets\\debug
+4.baseType=DIRECTORY
+0.set=ASSET
